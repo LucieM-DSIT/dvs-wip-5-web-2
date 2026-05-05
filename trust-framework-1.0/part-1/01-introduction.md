@@ -3,7 +3,7 @@
 
 <a id="section-1"></a>
 
-## 1. Introduction
+## 1. Introduction 1
 
 1.a. This is the 1.0 publication of the DVS trust framework. The trust framework is a set of rules for an organisation to follow if they want to have their service certified as a trustworthy digital verification service (‘DVS’). A DVS is a service that enables people to digitally prove who they are, information about themselves or their eligibility to do something. The trust framework aims to make it easier and more secure for people to use these services.
 
